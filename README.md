@@ -1,4 +1,4 @@
-# aMazing-Labyrinth
+# aMazing Labyrinth
 Our electronic version of the board game, Ravensburger Labyrinth.
 
 Objective: Be the first to collect all of your treasures by shifting the walls of the Labyrinth to create a clear path to get to them. 
