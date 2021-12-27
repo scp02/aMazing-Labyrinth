@@ -19,7 +19,7 @@ The board has a fixed set of static tiles printed. The other tiles are randomly 
   - Saving game files
   - Possible pathway generator
 
-It is recommended to play on a monitor with 1920×1080 screen. 
+It is recommended to play on a resolution of 1920×1080 or greater. 
 
 **Screenshots:**
 ![image](https://user-images.githubusercontent.com/92695424/147497102-4e8b26dc-9ef0-4cea-a875-030b841ca053.png)
